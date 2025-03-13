@@ -1,10 +1,5 @@
 # SongTracker
 
-
-
-
-# SongTracker
-
 A system to track and display your currently playing songs from iOS.
 
 Author: Balint Follinus (balintfollinus@gmail.com)
